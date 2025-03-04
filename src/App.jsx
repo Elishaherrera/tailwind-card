@@ -4,9 +4,8 @@ import LoginCard from "./LoginCard";
 
 function App() {
   return (
-    
-<WelcomeScreen />
 
+    <WelcomeScreen />
   );
 }
 
